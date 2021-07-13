@@ -1,10 +1,21 @@
-https://github.com/keebio/Keebio-Parts.pretty/tree/master
+A collection of Keyboard related PCB components from keebio:
 
-https://github.com/pforrmi/KiCad-SSD1306-128x64/tree/master
+    https://github.com/keebio/Keebio-Parts.pretty/tree/master
 
-https://github.com/csn495/Kicad_DisplayLibrary/tree/master
 
-https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master
+SSD1306-128x64:
+
+    https://github.com/pforrmi/KiCad-SSD1306-128x64/tree/master
+
+
+Display library containg various display footprints:
+
+    https://github.com/csn495/Kicad_DisplayLibrary/tree/master
+
+
+
+MX and other switch footprints:
+    https://github.com/ai03-2725/MX_Alps_Hybrid/tree/master
 
 https://github.com/csn495/DadPad/tree/main/Rotary_Encoder.pretty
 
