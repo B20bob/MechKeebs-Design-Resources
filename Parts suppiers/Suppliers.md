@@ -5,3 +5,6 @@ LCSC Electronics (China):
 
 Digikey (US):
     https://www.digikey.com/
+
+Mouser Electronics:
+    https://www.mouser.com/
