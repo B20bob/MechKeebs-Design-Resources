@@ -1,4 +1,4 @@
-PCB components:
+**PCB components:**
 
 LCSC Electronics (China):
     https://lcsc.com/en
