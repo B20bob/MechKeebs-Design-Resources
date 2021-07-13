@@ -5,6 +5,8 @@ A collection of Keyboard related PCB components from keebio:
 SSD1306-128x64:
      https://github.com/pforrmi/KiCad-SSD1306-128x64/tree/master
 
+SSD1306-128x32:
+    https://github.com/MichMich/KiCad-SSD1306_OLED-0.91-128x32
 
 Display library containg various display footprints:
     https://github.com/csn495/Kicad_DisplayLibrary/tree/master
